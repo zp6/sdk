@@ -15,6 +15,7 @@ export default {
         items: [
           { text: 'Getting Started', link: '/guide/getting-started' },
           { text: 'Installation', link: '/guide/installation' },
+          { text: 'Usage', link: '/guide/usage' },
           { text: 'Configuration', link: '/guide/configuration' }
         ]
       }],
