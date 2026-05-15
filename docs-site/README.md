@@ -1,0 +1,2 @@
+# Docs
+Setup with Docusaurus.
