@@ -3,6 +3,9 @@ export default {
   description: 'TypeScript SDK for SoroSave - Decentralized Group Savings Protocol on Soroban',
   base: '/sdk/',
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/getting-started' },
@@ -38,7 +41,7 @@ export default {
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2026 SoroSave Protocol'
+      copyright: 'Copyright 2026 SoroSave Protocol'
     }
   }
 }
